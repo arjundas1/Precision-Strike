@@ -1,1 +1,1 @@
-# Precision Strike fps 
+# Precision Strike - First Person Shooting (fps)
