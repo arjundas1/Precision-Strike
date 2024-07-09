@@ -45,16 +45,16 @@ focus.
  
 ## Project Team
 
-Guidance Professor: Dr. Arup Ghosh, School of Computer Science and Engineering, VIT Vellore.
+Guidance Professor: Dr. Debashreet Das, School of Computer Science and Engineering, VIT Vellore.
 
-The group for our Data Mining project consists of -
+The group for our Human Computer Interaction project consists of -
 
 |Sl.No. | Name  | ID Number |
 |-| ------------- |:-------------:|
 |1| Krishalaani   | 20BCE2142     |
-|1| Arjun Das     | 20BDS0129     |
-|2| Jay Jain      | 20BDS0286     |
-|3| Arsath Wahaab | 20BDS0319     |
+|2| Arjun Das     | 20BDS0129     |
+|3| Jay Jain      | 20BDS0286     |
+|4| Arsath Wahaab | 20BDS0319     |
 
 ## Applicability
 
